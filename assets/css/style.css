@@ -116,7 +116,7 @@ h6 {
 
 .navbar li {
     position: relative;
-    padding-right: 30px;
+    margin-right: 30px;
 }
 
 .navbar a,
