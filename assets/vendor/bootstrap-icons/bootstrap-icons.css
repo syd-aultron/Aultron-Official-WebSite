@@ -416,7 +416,7 @@ url("./fonts/bootstrap-icons.woff?8d200481aa7f02a2d63a331fc782cfaf") format("wof
 .bi-circle-square::before { content: "\f289"; }
 .bi-circle::before { content: "\f28a"; }
 .bi-clipboard-check::before { content: "\f28b"; }
-.bi-clipboard-data::before { content: "\f28c"; }
+.bi-graph-up::before { content: "\f28c"; }
 .bi-clipboard-minus::before { content: "\f28d"; }
 .bi-clipboard-plus::before { content: "\f28e"; }
 .bi-clipboard-x::before { content: "\f28f"; }
